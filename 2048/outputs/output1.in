@@ -1,0 +1,58 @@
+2 2 0 0
+4 16 8 2
+2 64 32 4
+1024 1024 64 0
+
+
+newX: 0, newY: -1 outside
+newX: 0, newY: 0 merged
+4 0 0 0
+4 16 8 2
+2 64 32 4
+1024 1024 64 0
+newX: 0, newY: 1 current is 0
+newX: 0, newY: 2 current is 0
+newX: 1, newY: -1 outside
+newX: 1, newY: 0
+4 0 0 0
+4 16 8 2
+2 64 32 4
+1024 1024 64 0
+newX: 1, newY: 1
+4 0 0 0
+4 16 8 2
+2 64 32 4
+1024 1024 64 0
+newX: 1, newY: 2
+4 0 0 0
+4 16 8 2
+2 64 32 4
+1024 1024 64 0
+newX: 2, newY: -1 outside
+newX: 2, newY: 0
+4 0 0 0
+4 16 8 2
+2 64 32 4
+1024 1024 64 0
+newX: 2, newY: 1
+4 0 0 0
+4 16 8 2
+2 64 32 4
+1024 1024 64 0
+newX: 2, newY: 2
+4 0 0 0
+4 16 8 2
+2 64 32 4
+1024 1024 64 0
+newX: 3, newY: -1 outside
+newX: 3, newY: 0 merged
+4 0 0 0
+4 16 8 2
+2 64 32 4
+2048 64 0 0
+newX: 3, newY: 1 current is 0
+newX: 3, newY: 2 current is 0
+4 0 0 0
+4 16 8 2
+2 64 32 4
+2048 64 0 0

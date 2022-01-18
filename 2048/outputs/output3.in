@@ -1,0 +1,94 @@
+row: 0 col: 3
+counter0
+row: 0 col: 2
+counter0
+row: 0 col: 1
+counter1
+row: 0 col: 0
+counter2
+row: 1 col: 3
+counter0
+row: 1 col: 2
+counter0
+row: 1 col: 1
+counter0
+row: 1 col: 0
+counter0
+row: 2 col: 3
+counter0
+row: 2 col: 2
+counter0
+row: 2 col: 1
+counter0
+row: 2 col: 0
+counter0
+row: 3 col: 3
+counter0
+row: 3 col: 2
+counter1
+row: 3 col: 1
+counter0
+row: 3 col: 0
+counter0
+0 0 2 2
+4 16 8 2
+2 64 32 4
+0 1024 1024 64
+
+
+newX: 0, newY: 1 current is 0
+newX: 0, newY: 2 current is 0
+newX: 0, newY: 3 merged
+0 0 0 4
+4 16 8 2
+2 64 32 4
+0 1024 1024 64
+newX: 0, newY: 4 outside
+newX: 1, newY: 1
+0 0 0 4
+4 16 8 2
+2 64 32 4
+0 1024 1024 64
+newX: 1, newY: 2
+0 0 0 4
+4 16 8 2
+2 64 32 4
+0 1024 1024 64
+newX: 1, newY: 3
+0 0 0 4
+4 16 8 2
+2 64 32 4
+0 1024 1024 64
+newX: 1, newY: 4 outside
+newX: 2, newY: 1
+0 0 0 4
+4 16 8 2
+2 64 32 4
+0 1024 1024 64
+newX: 2, newY: 2
+0 0 0 4
+4 16 8 2
+2 64 32 4
+0 1024 1024 64
+newX: 2, newY: 3
+0 0 0 4
+4 16 8 2
+2 64 32 4
+0 1024 1024 64
+newX: 2, newY: 4 outside
+newX: 3, newY: 1 current is 0
+newX: 3, newY: 2 merged
+0 0 0 4
+4 16 8 2
+2 64 32 4
+0 0 2048 64
+newX: 3, newY: 3
+0 0 0 4
+4 16 8 2
+2 64 32 4
+0 0 2048 64
+newX: 3, newY: 4 outside
+0 0 0 4
+4 16 8 2
+2 64 32 4
+0 0 2048 64
